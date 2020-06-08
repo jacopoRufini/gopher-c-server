@@ -22,8 +22,3 @@ License
 ----
 
 MIT
-
-Developed with jacopoRufini
-
-**Free Software, Yeah!**
-
